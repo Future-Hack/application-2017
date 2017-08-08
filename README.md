@@ -18,7 +18,7 @@ We're assuming you've landed here because you're trying to complete the applicat
   - [x] Final step is for you to host your application using Github pages so we can view it live (please include the link to your live app in your README file). For more information on how to use Github Pages https://pages.github.com/
 
 ### Now it's time to complete the application form as the final step: 
-- https://mck-forms.typeform.com/to/iSp2Yn
+### https://mck-forms.typeform.com/to/iSp2Yn
 
 The team is super excited to see you cool MVP :) 
 ### References:
