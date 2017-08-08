@@ -15,6 +15,7 @@ We're assuming you've landed here because you're trying to complete the applicat
   - [x] Commit all your work to this forked git repository and to make sure it's pushed to your master. Use the Git introduction as a guideline here: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
   A short demo of how to commit and push to master: 
   ![](commit.gif)
+  - [x] Final step is for you to host your application using Github pages so we can view it live (please include the link to your live app in your README file). For more information on how to use Github Pages https://pages.github.com/
 
 ### Now it's time to complete the application form as the final step: 
 - https://mck-forms.typeform.com/to/iSp2Yn
