@@ -11,9 +11,9 @@ We're assuming you've landed here because you're trying to complete the applicat
  - [x] The coding + problem solving challenge here is for you to think of any social problem in South Africa which you'd like to solve(e.g quality of education, crime, health etc.).
  - [x] Fork this repository and use it as your work space for the challenge. For more information on how to do this on github: https://help.github.com/articles/fork-a-repo/ 
   - [x] Describe how you would solve this problem using technology in your README file.
-  - [x] Now build an MVP (Minimum viable Product) website of your solution using the skeleton app as a library of styling options for you to use but feel free to use any other framework you wish. Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen. The MVP doesn't not need to be more than a day's work; nothing complicated as long as it can clearly depict the problem and solution.
+  - [x] Now build an MVP (Minimum viable Product) website of your solution using the skeleton app (Skeleton style guide: http://getskeleton.com) as a library of styling options for you to use but feel free to use any other framework you wish. Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen. The MVP doesn't not need to be more than a day's work; nothing complicated as long as it can clearly depict the problem and solution.
   - [x] Commit all your work to this forked git repository and to make sure it's pushed to your master. Use the Git introduction as a guideline here: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
-  A short demo: 
+  A short demo of how to commit and push to master: 
   ![](commit.gif)
 
 ### Now it's time to complete the application form as the final step: 
@@ -21,7 +21,7 @@ We're assuming you've landed here because you're trying to complete the applicat
 
 The team is super excited to see you cool MVP :) 
 ### References:
-- Skeleton, is what we used as the skeleton app: https://github.com/dhg/Skeleton
+- Skeleton is what we used as the skeleton app: http://getskeleton.com
 - Learn more about git: https://git-scm.com/docs/gittutorial
 - Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
 - Learn more about Facebook F8: https://www.fbf8.com/
