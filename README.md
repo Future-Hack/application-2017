@@ -1,5 +1,5 @@
 # Future hack 2017 application
-
+![](https://drive.google.com/file/d/0B3NDgYdKDsRtaVBuMUVSX0hEYUU/view?usp=sharing)
 ### Welcome to the Future Hack 2017 Application powered by McKinsey & Company in partnership with Facebook and Generation
 
 ### What is Future Hack?
@@ -21,7 +21,7 @@ We're assuming you've landed here because you're trying to complete the applicat
 
 The team is super excited to see you cool MVP :) 
 ### References:
-- Skeleton, is what we used as the skelon app: https://github.com/dhg/Skeleton
+- Skeleton, is what we used as the skeleton app: https://github.com/dhg/Skeleton
 - Learn more about git: https://git-scm.com/docs/gittutorial
 - Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
 - Learn more about Facebook F8: https://www.fbf8.com/
