@@ -1,6 +1,6 @@
-# Future hack 2017 application
-![](https://drive.google.com/file/d/0B3NDgYdKDsRtaVBuMUVSX0hEYUU/view?usp=sharing)
+# Future Hack 2017 application
 ### Welcome to the Future Hack 2017 Application powered by McKinsey & Company in partnership with Facebook and Generation
+![](photo.png)
 
 ### What is Future Hack?
 Future Hack is a programme by McKinsey Digital Africa in partnership with Facebook for Developers and Generation (https://www.generationinitiative.org/about/). The aim of this programme is to get young South African students to start thinking of a way to use technology to solve social problems with an innovative and entrepreneurial mindset in a hackathon fashion over a weekend after which the winners will win an all expense paid trip to the Facebook F8 conference in the Silicon Valley in 2018.
@@ -14,7 +14,7 @@ We're assuming you've landed here because you're trying to complete the applicat
   - [x] Now build an MVP (Minimum viable Product) website of your solution using the skeleton app as a library of styling options for you to use but feel free to use any other framework you wish. Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen. The MVP doesn't not need to be more than a day's work; nothing complicated as long as it can clearly depict the problem and solution.
   - [x] Commit all your work to this forked git repository and to make sure it's pushed to your master. Use the Git introduction as a guideline here: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
   A short demo: 
-  ![](http://gph.is/2vKEnLv)
+  ![](commit.gif)
 
 ### Now it's time to complete the application form as the final step: 
 - https://mck-forms.typeform.com/to/iSp2Yn
