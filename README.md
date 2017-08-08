@@ -13,8 +13,11 @@ We're assuming you've landed here because you're trying to complete the applicat
   - [x] Describe how you would solve this problem using technology in your README file.
   - [x] Now build an MVP (Minimum viable Product) website of your solution using the skeleton app (Skeleton style guide: http://getskeleton.com) as a library of styling options for you to use but feel free to use any other framework you wish. Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen. The MVP doesn't not need to be more than a day's work; nothing complicated as long as it can clearly depict the problem and solution.
   - [x] Commit all your work to this forked git repository and to make sure it's pushed to your master. Use the Git introduction as a guideline here: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
-  A short demo of how to commit and push to master: 
+  <br />
+
   ![](commit.gif)
+   <br />
+   
   - [x] Final step is for you to host your application using Github pages so we can view it live (please include the link to your live app in your README file). For more information on how to use Github Pages https://pages.github.com/
 
 ### Now it's time to complete the application form as the final step: 
