@@ -13,6 +13,8 @@ We're assuming you've landed here because you're trying to complete the applicat
   - [x] Describe how you would solve this problem using technology in your README file.
   - [x] Now build an MVP (Minimum viable Product) website of your solution using the skeleton app as a library of styling options for you to use but feel free to use any other framework you wish. Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen. The MVP doesn't not need to be more than a day's work; nothing complicated as long as it can clearly depict the problem and solution.
   - [x] Commit all your work to this forked git repository and to make sure it's pushed to your master. Use the Git introduction as a guideline here: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
+  A short demo: 
+  ![](http://gph.is/2vKEnLv)
 
 ### Now it's time to complete the application form as the final step: 
 - https://mck-forms.typeform.com/to/iSp2Yn
