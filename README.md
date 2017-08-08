@@ -1,6 +1,6 @@
-## Future hack 2017 application
+# Future hack 2017 application
 
-## Welcome to the Future Hack 2017 Application powered by McKinsey & Company in partnership with Facebook and Generation
+### Welcome to the Future Hack 2017 Application powered by McKinsey & Company in partnership with Facebook and Generation
 
 ### What is Future Hack?
 Future Hack is a programme by McKinsey Digital Africa in partnership with Facebook for Developers and Generation (https://www.generationinitiative.org/about/). The aim of this programme is to get young South African students to start thinking of a way to use technology to solve social problems with an innovative and entrepreneurial mindset in a hackathon fashion over a weekend after which the winners will win an all expense paid trip to the Facebook F8 conference in the Silicon Valley in 2018.
