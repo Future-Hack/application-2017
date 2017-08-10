@@ -27,8 +27,8 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
  - Note that the visual design and functionality of the website will be crucial in our evaluation of your application for the hackathon.
  - This website can only be built using HTML, CSS and Javascript. 
  - You can use remotely hosted APIs to improve on the functionality of your website.
- - You can use boilerplates such as (http://getskeleton.com) for your project.
- - Store your codebase on your own publically [GitHub repository](https://github.
+ - You can use boilerplates such as [Skeleton](http://getskeleton.com) for your project.
+ - Store your codebase on your own publically [GitHub repository](https://github).
  - Host your application using [Github Pages](https://pages.github.com/) so that we can view it live.
  - We super excited to see your cool MVP :)
 
