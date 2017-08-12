@@ -38,12 +38,12 @@ Tell us a bit more about yourself by filling in Future Hack [application form](h
 
 #### Our sponsors
 - Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
-- Learn more about Facebook for Develooers: https://developers.facebook.com/
+- Learn more about Facebook for Developers: https://developers.facebook.com/
 - Learn more about Generation: https://www.generationinitiative.org/about/
 
 #### The tools we use
 - Learn more about Git & GitHub: https://thenewboston.com/videos.php?cat=70		  
-- Learn more about HTLM, CSS and Javascript: https://www.w3schools.com/
+- Learn more about HTML, CSS and Javascript: https://www.w3schools.com/
 - Learn more about React JS: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA
 - Learn more about Skeleton: http://getskeleton.com
 - Learn more about GitHub Pages: https://pages.github.com/documentation
