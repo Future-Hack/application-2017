@@ -15,7 +15,7 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
 
 ### 1. Problem solving challenge
  - Describe a societal problem in South Africa (e.g quality of education, crime, health etc.) and how you would solve this problem with the use of technology in no more than 100 words.
- - Your description of this problem and solution should be stored in your README.MD file.
+ - Your description of this problem and solution should be stored in your README.md file.
  - Ensure that your solution you come up with is in the form of a software or hardware product. 
  - The significance of the problem as well as the impact and innovation of your solution will be crucial in our evaluation of your application for the hackathon.
  - Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen.
@@ -36,3 +36,11 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
 Tell us a bit more about yourself by filling in Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn).
 
 ## Now just cross your fingers and keep an eye on your emails.
+
+### References:
+
+- Skeleton is what we used as the skeleton app: http://getskeleton.com
+- Learn more about git: https://git-scm.com/docs/gittutorial
+- Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
+- Learn more about Facebook F8: https://www.fbf8.com/
+- Learn more about Generation: https://www.generationinitiative.org
