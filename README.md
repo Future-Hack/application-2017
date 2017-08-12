@@ -24,7 +24,7 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
  - Build a single page web application that would advertise your derived solution. 
  - Ensure that your web application describes the problem and how the solution solves it. 
  - Note that the visual design and functionality of the website will be crucial in our evaluation of your application for the hackathon.
- - This website can only be built using [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and vanille [Javascript](https://www.w3schools.com/js/default.asp) **OR** [React JS](https://facebook.github.io/react/). 
+ - This website can only be built using [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and vanilla [Javascript](https://www.w3schools.com/js/default.asp) **OR** [React JS](https://facebook.github.io/react/). 
  - You can use remotely hosted APIs to improve on the functionality of your website.
  - You can use boilerplates such as [Skeleton](http://getskeleton.com) for your project.
  - Store your codebase on your own publically [GitHub repository](https://github).
@@ -35,15 +35,13 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
 Tell us a bit more about yourself by filling in Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn).
 
 ## References:
-- Learn more about git: https://git-scm.com/docs/gittutorial		  - Learn more about git: https://git-scm.com/docs/gittutorial
-- Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs		  
 
 #### Our sponsors
 - Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
 - Learn more about Facebook for Develooers: https://developers.facebook.com/
 - Learn more about Generation: https://www.generationinitiative.org/about/
 
-#### The rools we use
+#### The tools we use
 - Learn more about Git & GitHub: https://thenewboston.com/videos.php?cat=70		  
 - Learn more about HTLM, CSS and Javascript: https://www.w3schools.com/
 - Learn more about React JS: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA
