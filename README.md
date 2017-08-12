@@ -21,7 +21,6 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
  - Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen.
 
 ### 2. Coding challenge
- - Build an MVP (Minimum viable Product) website of your solution using the 
  - Build a single page web application that would advertise your derived solution as though it were available for use right now. 
  - Ensure that your web application describes the problem and how the solution solves it. 
  - Note that the visual design and functionality of the website will be crucial in our evaluation of your application for the hackathon.
