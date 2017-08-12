@@ -3,7 +3,7 @@
 ![](photo.png)
 
 ## What is Future Hack?
-Future Hack is a hackathon organised by [McKinsey Digital](http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs) in partnership with [Facebook for Developers](https://developers.facebook.com/) and [Generation](https://www.generationinitiative.org/about/). The aim of this hackathon is to get young South African students to thinking about ways in which they can play a role in solving sociatal problems using technology. 
+Future Hack is a hackathon organised by [McKinsey Digital](http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs) in partnership with [Facebook for Developers](https://developers.facebook.com/) and [Generation](https://www.generationinitiative.org/). The aim of this hackathon is to get young South African students to thinking about ways in which they can play a role in solving sociatal problems using technology. 
 
 ## How will Future Hack work?
 In pure hackathon fashion, Future Hack will take place over a weekend of non-stop learning, problem solving and 'hacking' in Johannesburg on the 13 - 15th October 2017. Participants will spend the weekend in teams using their inovative and entrepreneurial mindset to build a digital solution to a problem currently faced by [Generation](https://www.generationinitiative.org/about/) - a global social enterprise aimed at eradicating youth unemployment. 
@@ -21,10 +21,10 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
  - Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen.
 
 ### 2. Coding challenge
- - Build a single page web application that would advertise your derived solution as though it were available for use right now. 
+ - Build a single page web application that would advertise your derived solution. 
  - Ensure that your web application describes the problem and how the solution solves it. 
  - Note that the visual design and functionality of the website will be crucial in our evaluation of your application for the hackathon.
- - This website can only be built using HTML, CSS and Javascript. 
+ - This website can only be built using [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and vanille [Javascript](https://www.w3schools.com/js/default.asp) **OR** [React JS](https://facebook.github.io/react/). 
  - You can use remotely hosted APIs to improve on the functionality of your website.
  - You can use boilerplates such as [Skeleton](http://getskeleton.com) for your project.
  - Store your codebase on your own publically [GitHub repository](https://github).
@@ -34,4 +34,18 @@ In order to be invted to Future Hack you will have to complete the Future Hack p
 ### 3. Application form 
 Tell us a bit more about yourself by filling in Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn).
 
-## Now just cross your fingers and keep an eye on your emails.
+## References:
+- Learn more about git: https://git-scm.com/docs/gittutorial		  - Learn more about git: https://git-scm.com/docs/gittutorial
+- Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs		  
+
+#### Our sponsors
+- Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
+- Learn more about Facebook for Develooers: https://developers.facebook.com/
+- Learn more about Generation: https://www.generationinitiative.org/about/
+
+#### The rools we use
+- Learn more about Git & GitHub: https://thenewboston.com/videos.php?cat=70		  
+- Learn more about HTLM, CSS and Javascript: https://www.w3schools.com/
+- Learn more about React JS: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA
+- Learn more about Skeleton: http://getskeleton.com
+- Learn more about GitHub Pages: https://pages.github.com/documentation
