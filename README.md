@@ -15,7 +15,7 @@ In order to be invited to Future Hack you will have to complete the Future Hack 
 
 ### 1. Problem solving challenge
  - Describe a societal problem in South Africa (e.g quality of education, crime, health etc.) and how you would solve this problem with the use of technology in no more than 100 words.
- - Your description of this problem and solution should be stored in your README.MD file.
+ - Your description of this problem and solution must be submitted in Section 3 of this application.
  - Ensure that the solution you come up with is in the form of a software or hardware product.
  - The significance of the problem as well as the impact and innovation of your solution will be crucial in our evaluation of your application for the hackathon.
  - Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen.
@@ -25,19 +25,18 @@ In order to be invited to Future Hack you will have to complete the Future Hack 
  - Ensure that your web application describes the problem and how the solution solves it.
  - Note that the visual design and functionality of the website will be crucial in our evaluation of your application for the hackathon.
  - This website can only be built using [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and vanilla [Javascript](https://www.w3schools.com/js/default.asp) **OR** [React JS](https://facebook.github.io/react/).
- - You can use remotely hosted APIs to improve on the functionality of your website.
  - You can use boilerplates such as [Skeleton](http://getskeleton.com) for your project.
  - Store your codebase on your own public [GitHub repository](https://github).
  - Host your application using [Github Pages](https://pages.github.com/) so that we can view it live.
  - We are super excited to see your cool MVP :)
 
 ### 3. Application form
-**Mandatory**: Tell us a bit more about yourself by filling in the Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn).
+ - Complete the Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn).
 
 ## References:
 
 #### Our sponsors
-- Learn more about Mckinsey Digital: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
+- Learn more about Digital Mckinsey: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
 - Learn more about Facebook for Developers: https://developers.facebook.com/
 - Learn more about Generation: https://www.generationinitiative.org/about/
 
