@@ -35,7 +35,7 @@ In order to be invited to Future Hack you will have to complete the Future Hack 
 
 ## References:
 
-#### Our sponsors
+#### Our organisers
 - Learn more about Digital Mckinsey: http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs
 - Learn more about Facebook for Developers: https://developers.facebook.com/
 - Learn more about Generation: https://www.generationinitiative.org/about/
