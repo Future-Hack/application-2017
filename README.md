@@ -3,7 +3,7 @@
 ![](future-hack.png)
 
 ## What is Future Hack?
-Future Hack is a hackathon organised by [Digital McKinsey](http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs) in partnership with [Facebook for Developers](https://developers.facebook.com/) and [Generation](https://www.generationinitiative.org/). The aim of this hackathon is to get young South African students thinking about ways in which they can play a role in solving societal problems using technology.
+Future Hack is a hackathon organised by [Digital McKinsey](http://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients/digital-labs) in partnership with [Facebook for Developers](https://developers.facebook.com/) and [Generation](https://www.generationinitiative.org/). The aim of this hackathon is to get *final year undergraduate / postgraduate South African students* thinking about ways in which they can play a role in solving societal problems using technology.
 
 ## How will Future Hack work?
 In pure hackathon fashion, Future Hack will take place over a weekend of non-stop learning, problem solving and 'hacking' in Johannesburg on the 13 - 15th October 2017. Participants will spend the weekend in teams using their innovative and entrepreneurial mindset to build a digital solution to a problem currently faced by [Generation](https://www.generationinitiative.org/about/) - a global social enterprise aimed at eradicating youth unemployment.
