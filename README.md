@@ -11,7 +11,7 @@ In pure hackathon fashion, Future Hack will take place over a weekend of non-sto
 The team with the winning solution will be awarded an all expense paid trip to the [Facebook F8 conference 2018](https://www.fbf8.com/) hosted in Silicon Valley.
 
 ## How do I apply for Future Hack?
-In order to be invited to Future Hack you will have to complete the Future Hack problem solving and coding challenge.
+In order to be invited to Future Hack you will have to complete the Future Hack problem solving, coding challenge and application form. **Please complete the following three steps in the order they are presented**.
 
 ### 1. Problem solving challenge
  - Describe a societal problem in South Africa (e.g quality of education, crime, health etc.) and how you would solve this problem with the use of technology in no more than 100 words.
