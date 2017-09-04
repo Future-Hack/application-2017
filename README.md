@@ -31,7 +31,7 @@ In order to be invited to Future Hack you will have to complete the Future Hack 
  - We are super excited to see your cool MVP :)
 
 ### 3. Application form
- - Complete the Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn) only once you have completed the problem solving and coding challanges above.
+ - Complete the Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn) only once you have completed the Future Hack coding challanges above.
 
 ## References:
 
