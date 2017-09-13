@@ -21,14 +21,16 @@ In order to be invited to Future Hack you will have to complete the Future Hack 
  - Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen.
 
 ### 2. Coding challenge
- - Build a single page web application that would advertise your derived solution.
- - Ensure that your web application describes the problem and how the solution solves it.
+ - Build a single page website that advertises the solution you proposed in the problem solving challenge above.
+ - Ensure that your website describes the problem you identified and how the solution you proposed would solve it.
  - Note that the visual design and functionality of the website will be crucial in our evaluation of your application for the hackathon.
  - This website can only be built using [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and vanilla [Javascript](https://www.w3schools.com/js/default.asp) **OR** [React JS](https://facebook.github.io/react/).
- - You can use boilerplates such as [Skeleton](http://getskeleton.com) for your project.
- - Store your codebase on your own public [GitHub repository](https://github).
- - Host your application using [Github Pages](https://pages.github.com/) so that we can view it live.
+ - You can use boilerplates such as [Skeleton](http://getskeleton.com) for your project - this is free.
+ - Store your codebase on your own public [GitHub repository](https://github) - this is free.
+ - Host your application using [Github Pages](https://pages.github.com/) so that we can view it live - this is free.
  - We are super excited to see your cool MVP :)
+
+#### Now that you're done with the Problem Solving and Coding Challenges, please share your solution with us by completing the Application form below.
 
 ### 3. Application form
  - Complete the Future Hack [application form](https://mck-forms.typeform.com/to/iSp2Yn) only once you have completed the Future Hack coding challanges above.
