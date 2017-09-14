@@ -14,8 +14,9 @@ The team with the winning solution will be awarded an all expense paid trip to t
 In order to be invited to Future Hack you will have to complete the Future Hack problem solving, coding challenge and application form. **Please complete the following three steps in the order they are presented**.
 
 ### 1. Problem solving challenge
- - Describe a societal problem in South Africa (e.g quality of education, crime, health etc.) and how you would solve this problem with the use of technology in no more than 100 words.
- - Your description of this problem and solution must be submitted in Section 3 of this application.
+ - Identify a societal problem in South Africa (e.g quality of education, crime, health etc.) and how you would solve this problem with the use of technology. 
+ - Describe this problem and solution in no more than 100 words.
+ - Your description of this problem and solution will be submitted in Section 3 of this application process, for now you may save this in a READ-ME file.
  - Ensure that the solution you come up with is in the form of a software or hardware product.
  - The significance of the problem as well as the impact and innovation of your solution will be crucial in our evaluation of your application for the hackathon.
  - Please note that this is a vital element to determine success in the application form so please be articulate in describing your solution to the problem you've chosen.
